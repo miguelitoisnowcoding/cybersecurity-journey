@@ -1,18 +1,16 @@
 # About Me
+I'm Miguel Mansilla! I'm an incoming first-year Computer Science student at De La Salle University Manila, majoring in Network and Information Security. I came in with a background in Python, Java, HTML/CSS/JS, and some hackathon experience (NASA Space Apps Davao 2025, Google Gemini Arena 2026, Create & Conquer 2026), and I'm now building toward a career in cybersecurity — specifically cloud infrastructure and AI security.
 
-I'm Miguel Mansilla! I am an incoming first year student in De La Salle University Manila, studying Computer Science majoring in Network and Information Security. I've always had a passion and love for technology, but began leaning towards the area of Cybersecurity, specifically AI security and cloud infrastructure. 
+Connect with me: [LinkedIn](www.linkedin.com/in/isaiah-miguel-mansilla)
 
 # What is this repository?
-
-This repository will act as a document to record my journey in cybersecurity. I will be writing down my insights and learnings throughout my journey, from the Over The Wire Bandit levels that I'm currently doing to the future AWS projects that I will place on my resume. 
+This repository documents my journey into cybersecurity — write-ups, insights, and lessons learned along the way, from OverTheWire Bandit levels to future AWS and cloud security projects. It's both a personal learning log and a growing portfolio of hands-on work.
 
 ## What I'm currently working on
-| Concepts to Learn | Status |
+| Concept to Learn | Status |
 | ----------------- | ------ |
 | Linux Basics (Bandit) | *Ongoing* |
-| Linux Advanced & Cryptography (PicoCTF) | *Not Started* |
-| AWS Basics | *Not Started* |
-
-> 
+| Web/Crypto/Forensics Fundamentals (picoCTF) | *Not Started* |
+| AWS & Cloud Security Basics | *Not Started* |
 
 ---
