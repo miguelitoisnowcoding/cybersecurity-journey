@@ -284,4 +284,4 @@ This level was a test to my critical thinking and problem solving ability. I was
 - `nmap`
 
 
-[Optional: link back to a running index / previous write-up / next write-up]
+<-- [Previous Write-Up](bandit-23-24.md) | [Next Write-Up](bandit-25-26.md) -->
