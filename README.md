@@ -9,7 +9,7 @@ This repository documents my journey into cybersecurity — write-ups, insights,
 ## What I'm currently working on
 | Concept to Learn | Status |
 | ----------------- | ------ |
-| Linux Basics (Bandit) | *Ongoing* |
+| Linux Basics (Bandit) | *Finished* |
 | Web/Crypto/Forensics Fundamentals (picoCTF) | *Not Started* |
 | AWS & Cloud Security Basics | *Not Started* |
 
