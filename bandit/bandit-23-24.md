@@ -150,4 +150,4 @@ hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
 `file` - To check file type
 
 
-[Optional: link back to a running index / previous write-up / next write-up]
+<-- [Previous Write-Up]() | [Next Write-Up](bandit-24-25.md) -->
