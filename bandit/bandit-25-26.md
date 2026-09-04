@@ -85,4 +85,4 @@ There I used `cat` to display the contents of that location and there it was
 ### Key Takeaway
 This level was another "think outside the box" moment for me, it taught me that to really read into the features of a command and see if there's a way to utilize it in to my advantage. In this situation where there was a restricted environment because of the `more` command's function of displaying the text.txt file, I had to find a way in delaying it's processes, which was to make my terminal window smaller so it had less space to display the text.
 
-[Optional: link back to a running index / previous write-up / next write-up]
+<-- [Previous Write-Up](bandit-24-25.md) | [Next Write-Up](bandit-26-27.md) -->
