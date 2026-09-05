@@ -35,7 +35,6 @@ remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (3/3), done.
 ```
-```
 
 ### Getting to the solution:
 After using `ls` to check if I got any new files, I noticed that theres a new repository noted as `repo`.
