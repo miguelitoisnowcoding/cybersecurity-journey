@@ -51,4 +51,4 @@ The password to the next level is: y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ
 This level was a bit more relaxing to me because of how I was already familiar with *git*'s commands and it was another reminder to me of how cool and useful git is, as a tool to a developer's life.
 
 
-<-- [Previous Write-Up](bandit-26-27.md) | [Next Write-Up](bandit-29-30.md) -->
+<-- [Previous Write-Up](bandit-26-27.md) | [Next Write-Up](bandit-28-29.md) -->
