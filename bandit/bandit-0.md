@@ -84,4 +84,4 @@ The smallest mistakes can cause a significant change in the result of your comma
 
 `ssh` - connects you to a server based on the *username*, *serveraddress*, and *portnumber*. Typically, it follows this format: `ssh username@serveraddress -p portnumber`
 
-[Optional: link back to a running index / previous write-up / next write-up]
+[Next Write-Up](bandit-00-01.md) -->
