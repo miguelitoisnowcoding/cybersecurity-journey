@@ -1,5 +1,5 @@
 # OverTheWire: Bandit Level 00 - 01 
-Category: Linux Fundamentals | Date: 09/1/2026 | Difficulty: Easy
+Category: Linux Fundamentals | Date of Publish: 09/9/2026 | Difficulty: Easy
 
 ## The Challenge
 The challenge was to locate a file called `readme` in the home directory because it contains the password for the `bandit1`, which the user has to connect to using ssh.
