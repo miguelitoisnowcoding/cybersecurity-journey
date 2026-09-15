@@ -61,9 +61,11 @@ bandit4@bandit:~/inhere$ cat ./-file07
 ```
 
 ### Key Takeaway
+Here's another level of me discovering new flags and options to use different commands to have more variety and to address specific issues.
 
 ### Tools/Commands Referenced
-command1 — [what it did here]
-command2 — [what it did here]
+`ls` - lists the files of the directory.
+`cat` - displays file contents.
+`file` - displays the file type of the specified file.
 
-<-- [Previous Write-Up](bandit-##-##.md) | [Next Write-Up](bandit-##-##.md) -->
+<-- [Previous Write-Up](bandit-03-04.md) | [Next Write-Up](bandit-05-06.md) -->
